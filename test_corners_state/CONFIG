@@ -1,3 +1,0 @@
-class: "CustomCreditQuestion"
-max_points: "3"
-depends: "test_bfs"
